@@ -1,0 +1,14 @@
+sprite_index = sPlayer_Idle_Front;
+image_size = 0.3;
+image_xscale = image_size;
+image_yscale = image_size;
+movement_speed = 1;
+x = 160;
+y = 90;
+during_attack = 0;
+cool_down = 0.2;
+walk_direction = "Front";
+HPMAX = 10;
+HP = HPMAX;
+Damage = 1
+Coins = 0
