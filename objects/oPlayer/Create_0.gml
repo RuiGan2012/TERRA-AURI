@@ -1,3 +1,5 @@
+x = 160;
+y = 90;
 sprite_index = sPlayer_Idle_Front;
 image_size = 0.3;
 image_xscale = image_size;
@@ -12,3 +14,6 @@ HPMAX = 10;
 HP = HPMAX;
 Damage = 1
 Coins = 0
+DamageMultiplier = 1
+LuckMultiplier = 1
+current_weapon = sBasicSword
